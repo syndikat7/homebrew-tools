@@ -1,6 +1,6 @@
 # S7 Homebrew-Tap
 
-Homebrew formula for installing Scraly's apps & tools.
+Homebrew formula for installing SYNDIKAT7 apps & tools.
 
 ## How To Use
 
