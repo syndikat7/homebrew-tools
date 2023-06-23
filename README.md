@@ -1,4 +1,4 @@
-# S7 Homebrew-Tap
+# S7 Homebrew Taps
 
 Homebrew formula for installing SYNDIKAT7 apps & tools.
 
@@ -7,7 +7,7 @@ Homebrew formula for installing SYNDIKAT7 apps & tools.
 Add repository:
 
 ```
-brew tap syndika7/tools
+brew tap syndikat7/tools
 ```
 
 Install [Twilio SMS](https://github.com/syndikat7/twilio-sms):
